@@ -1,0 +1,14 @@
+I have uploaded the game to onedrive and sent the link in the ms forms
+This game only works on Windows computers and if you want to run the .py files you must install pygame
+Run the file called "run_this_file_to_make_the_game_work.exe" if you see a blue screen
+saying "windows stoped this app from running" click on more info and click on "run anyway".
+Or if you have python Installed your computer open the file called "main_file" in any python IDE and run it from there but you will have to install pygame(a python graphics library) when you open the game you will see a blue screen and three buttons choose anyone ( I recommend easy)
+
+The aim of the game is to collect thrash and co2, you are in the helicopter press A or D to move left or right
+and space to drop a net, your net will float down on the thrash and catch it, after that a co2 atom will spawn in the sky you must use your mouse to catch it. I recommend using a keyboard and Mouse.
+
+Easy mode : Thrash and Co2 spawn separately
+Medium mode : Thrash and Co2 spawn together and and the speed with the thrash and co2 move is increased
+Hard mode : Thrash and Co2 spawn together and the speed is increased even more, if you fail to collect the thrash and co2 10 points will be deducted
+
+To see my code open any of the .py files in any IDE or notepad or webroser
